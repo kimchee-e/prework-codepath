@@ -1,7 +1,7 @@
 ## Hello
 
 ### App Description
-    In this app there is a button that you can click to change the text to white
+    An app that says Hello! You can change the text to white by pressing the button
 
 ### App Walk-though
 
